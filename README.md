@@ -1,4 +1,5 @@
-# hllo-world
-!
+# hello-world
 
-m m y st reor
+Hi There !
+
+I'am making my first repository :D.
